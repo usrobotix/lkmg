@@ -1,0 +1,212 @@
+ID,IBLOCK_ID,XML_ID,NAME,ACTIVE,CODE
+440,12,440,"Проект черный MT Black Project MT",Y,black-project-mt
+441,12,441,"Проект белый MT White Project MT",Y,white-project-mt
+452,12,452,"Ступень Артстоун черный Step Artstone Black",Y,step-artstone-black
+453,12,453,"Ступень Артстоун серый Step Artstone Gray",Y,step-artstone-gray
+454,12,454,"Ступень Атлан 119 Step Atlan 119",Y,step-atlan-119
+455,12,455,"Ступень Атлан 117 Step Atlan 117",Y,step-atlan-117
+456,12,456,"Ступень Графит темный Step Grafit Dark",Y,step-grafit-dark
+457,12,457,"Ступень Марс кремовый Step Mars Cream",Y,step-mars-cream
+458,12,458,"Ступень Мурано Step Murano",Y,step-murano
+459,12,459,"Ступень Статуарио Step Statuario",Y,step-statuario
+460,12,460,"Ступень Торонто Step Toronto",Y,step-toronto
+461,12,461,"Ступень Травертин Step Travertine",Y,step-travertine
+462,12,462,"Ступень Ультра Step Ultra",Y,step-ultra
+463,12,463,"Ступень Урбан темный Step Urban Dark",Y,step-urban-dark
+464,12,464,"Кирпич 101 RsMT Brick 101 RsMT",Y,brick-101-rsmt
+465,12,465,"Кирпич 102 RsMT Brick 102 RsMT",Y,brick-102-rsmt
+466,12,466,"Кирпич 103 RsMT Brick 103 RsMT",Y,brick-103-rsmt
+467,12,467,"Кирпич 104 RsMT Brick 104 RsMT",Y,brick-104-rsmt
+468,12,468,"Кирпич 105 RsMT Brick 105 RsMT",Y,brick-105-rsmt
+469,12,469,"Кирпич 106 RsMT Brick 106 RsMT",Y,brick-106-rsmt
+470,12,470,"Кирпич 107 RsMT Brick 107 RsMT",Y,brick-107-rsmt
+471,12,471,"Кирпич 108 RsMT Brick 108 RsMT",Y,brick-108-rsmt
+472,12,472,"Кирпич 109 RsMT Brick 109 RsMT",Y,brick-109-rsmt
+473,12,473,"Кирпич 111 RsMT Brick 111 RsMT",Y,brick-111-rsmt
+474,12,474,"Стивен серый MT Steven Gray MT",Y,steven-gray-mt
+475,12,475,"Эсма кремовый MT Esma Cream MT",Y,esma-cream-mt
+476,12,476,"Эсма серый MT Esma Gray MT",Y,esma-gray-mt
+477,12,477,"Гранит MT Granit MT",Y,granit-mt
+478,12,478,"Петро MT Petro MT",Y,petro-mt
+479,12,479,"Гарден MT Garden MT",Y,garden-mt
+480,12,480,"Петра MT Petra MT",Y,petra-mt
+481,12,481,"Парадайз RsMT Paradise RsMT",Y,paradise-rsmt
+482,12,482,"Стивен кремовый MT Steven Cream MT",Y,steven-cream-mt
+483,12,483,"Даян серый RsMT Dayan Gray RsMT",Y,dayan-gray-rsmt
+484,12,484,"Джанет RsMT Janet RsMT",Y,janet-rsmt
+485,12,485,"Роша серый 202 RsMT Rosha Gray 202 RsMT",Y,rosha-gray-202-rsmt
+486,12,486,"Роша темно-кремовый 204 RsMT Rosha Cream Dark 204 RsMT",Y,rosha-cream-dark-204-rsmt
+487,12,487,"Роша светло-кремовый 207 RsMT Rosha Cream Light 207 RsMT",Y,rosha-cream-light-207-rsmt
+488,12,488,"Прага серый RsMT Prague Gray RsMT",Y,prague-gray-rsmt
+489,12,489,"Прага бежевый RsMT Prague Beige RsMT",Y,prague-beige-rsmt
+490,12,490,"Атлан 109 MRP Atlan 109 MRP",Y,atlan-109-mrp
+491,12,491,"Атлан 110 MRP Atlan 110 MRP",Y,atlan-110-mrp
+492,12,492,"Атлан 111 MRP Atlan 111 MRP",Y,atlan-111-mrp
+493,12,493,"Атлан 113 MRP Atlan 113 MRP",Y,atlan-113-mrp
+494,12,494,"Атлан 114 MRP Atlan 114 MRP",Y,atlan-114-mrp
+495,12,495,"Атлан 115 MRP Atlan 115 MRP",Y,atlan-115-mrp
+496,12,496,"Атлан 116 MRP Atlan 116 MRP",Y,atlan-116-mrp
+497,12,497,"Атлан 117 MRP Atlan 117 MRP",Y,atlan-117-mrp
+498,12,498,"Атлан 118 MRP Atlan 118 MRP",Y,atlan-118-mrp
+499,12,499,"Атлан 119 MRP Atlan 119 MRP",Y,atlan-119-mrp
+500,12,500,"София кремовый MT Sofia Cream MT",Y,sofia-cream-mt
+501,12,501,"София темно-серый MT Sofia Gray Dark MT",Y,sofia-gray-dark-mt
+502,12,502,"София коричневый MT Sofia Brown MT",Y,sofia-brown-mt
+503,12,503,"София светло-серый MT Sofia Gray Light MT",Y,sofia-gray-light-mt
+504,12,504,"Генезис светло-кремовый MT Genesis Cream Light MT",Y,genesis-cream-light-mt
+505,12,505,"Магнум темно-кремовый MT Magnum Cream Dark MT",Y,magnum-cream-dark-mt
+506,12,506,"Оскар-Вуд кремовый MT Oscar-Wood Cream MT",Y,oscar-wood-cream-mt
+507,12,507,"Вик-Вуд коричневый MT Wick-Wood Brown MT",Y,wick-wood-brown-mt
+508,12,508,"Флорида коричневый MT Florida Brown MT",Y,florida-brown-mt
+509,12,509,"Генезис коричневый MT Genesis Brown MT",Y,genesis-brown-mt
+510,12,510,"Арктик MT Arctic MT",Y,arctic-mt
+511,12,511,"Базальт MT Basalt MT",Y,basalt-mt
+512,12,512,"Сланец MT Slate MT",Y,slate-mt
+513,12,513,"Лофт MT Loft MT",Y,loft-mt
+514,12,514,"Элегант MT Elegant MT",Y,elegant-mt
+515,12,515,"Тиволи MT Tivoli MT",Y,tivoli-mt
+516,12,516,"Савана темно-серый MT Savana Gray Dark MT",Y,savana-gray-dark-mt
+517,12,517,"Савана светло-серый MT Savana Gray Light MT",Y,savana-gray-light-mt
+518,12,518,"Бернадо темно-серый MT Bernado Gray Dark MT",Y,bernado-gray-dark-mt
+519,12,519,"Патрия MT Patria MT",Y,patria-mt
+520,12,520,"Бернадо кремовый MT Bernado Cream MT",Y,bernado-cream-mt
+521,12,521,"Прима серый MT Prima Gray MT",Y,prima-gray-mt
+522,12,522,"Серена MT Serena MT",Y,serena-mt
+523,12,523,"Фалько светло-серый MT Falco Gray Light MT",Y,falco-gray-light-mt
+524,12,524,"Верона MT Verona MT",Y,verona-mt
+525,12,525,"Бенефит серый SHG Benefit Gray SHG",Y,benefit-gray-shg
+526,12,526,"Реджина серый SHG Rejina Gray SHG",Y,rejina-gray-shg
+527,12,527,"Пластер 6046 SHG Plaster 6046 SHG",Y,plaster-6046-shg
+528,12,528,"Вулкано 6047 SHG Volkano 6047 SHG",Y,volkano-6047-shg
+529,12,529,"Антик 6044 SHG Antik 6044 SHG",Y,antik-6044-shg
+530,12,530,"Венециан 6070 SHG Venecian 6070 SHG",Y,venecian-6070-shg
+531,12,531,"Конкрет темный 6048 SHG Concret Dark 6048 SHG",Y,concret-dark-6048-shg
+532,12,532,"Артбетон темный 6068 SHG Artbeton Dark 6068 SHG",Y,artbeton-dark-6068-shg
+533,12,533,"Артбетон светлый 6069 SHG Artbeton Light 6069 SHG",Y,artbeton-light-6069-shg
+534,12,534,"Конкрет светлый 6049 SHG Concret Light 6049 SHG",Y,concret-light-6049-shg
+535,12,535,"Шарм кремовый SHG Charme Cream SHG",Y,charme-cream-shg
+536,12,536,"Сенат бежевый SHG Senat Beige SHG",Y,senat-beige-shg
+537,12,537,"Марми золотой SHG Marmi Gold SHG",Y,marmi-gold-shg
+538,12,538,"Сиена бежевый SHG Siena Beige SHG",Y,siena-beige-shg
+539,12,539,"Нева серый MT Neva Gray MT",Y,neva-gray-mt
+540,12,540,"Дунай темно-серый MT Dunay Gray Dark MT",Y,dunay-gray-dark-mt
+541,12,541,"Дунай светло-серый MT Dunay Gray Light MT",Y,dunay-gray-light-mt
+542,12,542,"Араз светло-серый MT Araz Gray Light MT",Y,araz-gray-light-mt
+543,12,543,"Памир серый MT Pamir Gray MT",Y,pamir-gray-mt
+544,12,544,"Мадейра светло-серый MT Madeira Gray Light MT",Y,madeira-gray-light-mt
+545,12,545,"Байкал кремовый MT Baykal Cream MT",Y,baykal-cream-mt
+546,12,546,"Босфор серый MT Bosfor Gray MT",Y,bosfor-gray-mt
+547,12,547,"Волга темно-серый MT Volga Gray Dark MT",Y,volga-gray-dark-mt
+548,12,548,"Колорадо белый MT Kolorado White MT",Y,kolorado-white-mt
+549,12,549,"Араз темно-серый MT Araz Gray Dark MT",Y,araz-gray-dark-mt
+550,12,550,"Мадейра темно-серый MT Madeira Gray Dark MT",Y,madeira-gray-dark-mt
+551,12,551,"Ниагара черный MT Niagara Black MT",Y,niagara-black-mt
+552,12,552,"Альма темно-бежевый MT Alma Dark Beige MT",Y,alma-dark-beige-mt
+553,12,553,"Калакатта классик MT Calacatta Classic MT",Y,calacatta-classic-mt
+554,12,554,"Цемент светло-бежевый MT Cement Light Beige MT",Y,cement-light-beige-mt
+555,12,555,"Цемент светло-серый MT Cement Light Gray MT",Y,cement-light-gray-mt
+556,12,556,"Даллас специал серый MT Dallas Special Gray MT",Y,dallas-special-gray-mt
+557,12,557,"Сантана светло-бежевый MT Santana Light Beige MT 60x120",Y,santana-light-beige-mt-60x120
+558,12,558,"Травертин светло-бежевый MT Travertin Light Beige MT",Y,travertin-light-beige-mt
+559,12,559,"Зевс черный MT Zeus Black",Y,zeus-black
+560,12,560,"Зевс белый MT Zeus White MT",Y,zeus-white-mt
+561,12,561,"Айназ PL Ainaz PL",Y,ainaz-pl
+562,12,562,"Апачи темно-серый PL Apachi Gray Dark PL",Y,apachi-gray-dark-pl
+563,12,563,"Апачи светло-серый PL Apachi Gray Light PL",Y,apachi-gray-light-pl
+564,12,564,"Апачи светло-кремовый PL Apachi Cream Light PL",Y,apachi-cream-light-pl
+565,12,565,"Артур серый PL Artur Gray PL",Y,artur-gray-pl
+566,12,566,"Атрин темно-серый PL Atrin Gray Dark PL",Y,atrin-gray-dark-pl
+567,12,567,"Атрин светло-серый PL Atrin Gray Light PL",Y,atrin-gray-light-pl
+568,12,568,"Кристиан бежевый PL Kristian Beige PL",Y,kristian-beige-pl
+569,12,569,"Кристиан серый PL Kristian Gray PL",Y,kristian-gray-pl
+570,12,570,"Делван PL Delvan PL",Y,delvan-pl
+571,12,571,"Даймонд темно-серый PL Diamond Gray Dark PL",Y,diamond-gray-dark-pl
+572,12,572,"Даймонд светло-серый PL Diamond Gray Light PL",Y,diamond-gray-light-pl
+573,12,573,"Даймонд опаловый PL Diamond Opal PL",Y,diamond-opal-pl
+574,12,574,"Доминик светло-серый PL Dominic Gray Light PL",Y,dominic-gray-light-pl
+575,12,575,"Доминик темно-серый PL Dominic Gray Dark PL",Y,dominic-gray-dark-pl
+576,12,576,"Эстелла синий PL Estella Blue PL",Y,estella-blue-pl
+577,12,577,"Фирузи PL Firuze PL",Y,firuze-pl
+578,12,578,"Жасмин черный PL Jasmin Black PL",Y,jasmin-black-pl
+579,12,579,"Джессика PL Jessika PL",Y,jessika-pl
+580,12,580,"Карино темно-серый PL Karino Gray Dark PL",Y,karino-gray-dark-pl
+581,12,581,"Карино светло-серый PL Karino Gray Light PL",Y,karino-gray-light-pl
+582,12,582,"Карино PL Karino PL",Y,karino-pl
+583,12,583,"Лидия PL Lidia PL",Y,lidia-pl
+584,12,584,"Лидия темный PL Lidia Dark PL",Y,lidia-dark-pl
+585,12,585,"Луиз PL Luyiz PL",Y,luyiz-pl
+586,12,586,"Мишель PL Mishel PL",Y,mishel-pl
+587,12,587,"Мурано PL Murano PL",Y,murano-pl
+588,12,588,"Мурано темный PL Murano Dark PL",Y,murano-dark-pl
+589,12,589,"Мурано светлый PL Murano Light PL",Y,murano-light-pl
+590,12,590,"Сонита PL Sonita PL",Y,sonita-pl
+591,12,591,"Арон PL Aron PL",Y,aron-pl
+592,12,592,"Савана PL Savana PL",Y,savana-pl
+593,12,593,"Селика PL Selika PL",Y,selika-pl
+594,12,594,"Спайдер PL (Сепидар) Spaider PL (Sepidar)",Y,spaider-pl-sepidar
+595,12,595,"Травертин PL Travertin PL",Y,travertin-pl
+596,12,596,"Травертин кремовый PL Travertin Cream PL",Y,travertin-cream-pl
+597,12,597,"Травертин серый PL Travertin Gray PL",Y,travertin-gray-pl
+598,12,598,"Мрамор GL Marbel GL",Y,marbel-gl
+599,12,599,"Ирина светло-серый GL Irina Gray Light GL",Y,irina-gray-light-gl
+600,12,600,"Ониксит светло-серый GL Onyxit Gray Light GL",Y,onyxit-gray-light-gl
+601,12,601,"Рэдман кремовый GL Radman Cream GL",Y,radman-cream-gl
+602,12,602,"Статуарио GL Statuario GL",Y,statuario-gl
+603,12,603,"Лемуриано синий GL Lemuriano Blue GL",Y,lemuriano-blue-gl
+604,12,604,"Айвори бежевый GL İvory Beige GL",Y,vory-beige-gl
+605,12,605,"Армани бежевый GL Armani Beige GL",Y,armani-beige-gl
+606,12,606,"Армани бронзовый GL Armani Bronze GL",Y,armani-bronze-gl
+607,12,607,"Оникс золотой GL Onyx Gold GL",Y,onyx-gold-gl
+608,12,608,"Пекан кремовый GL Pekan Cream GL",Y,pekan-cream-gl
+609,12,609,"Манила GL Manila GL",Y,manila-gl
+610,12,610,"Пекан серый GL Pekan Gray GL",Y,pekan-gray-gl
+611,12,611,"Селен GL Selen GL",Y,selen-gl
+612,12,612,"Марфил GL Marfil GL",Y,marfil-gl
+613,12,613,"Оникс аква GL Onyx Aqua GL",Y,onyx-aqua-gl
+614,12,614,"Тина GL Tina GL",Y,tina-gl
+615,12,615,"Эспио черный GL Espio Black GL",Y,espio-black-gl
+616,12,616,"Майкл серый GL Maykel Gray GL",Y,maykel-gray-gl
+617,12,617,"Лукас 7745 GL Lucas 7745 GL",Y,lucas-7745-gl
+618,12,618,"Оникс голубой GL Onyx Blue GL",Y,onyx-blue-gl
+619,12,619,"Мрамор кремовый GL Marble Cream GL",Y,marble-cream-gl
+620,12,620,"Ирина темно-серый GL İrina Gray Dark GL",Y,rina-gray-dark-gl
+621,12,621,"Калакатта GL Calacatta GL",Y,calacatta-gl
+622,12,622,"Урбан темно-серый MT Urban Gray Dark МТ",Y,urban-gray-dark-mt
+623,12,623,"Урбан светло-серый MT Urban Gray Light МТ",Y,urban-gray-light-mt
+624,12,624,"Кристалл кремовый MT Crystal Cream МТ",Y,crystal-cream-mt
+625,12,625,"Сатварио серый MT Satvario Gray МТ",Y,satvario-gray-mt
+626,12,626,"Арника темно-серый MT Arnika Gray Dark МТ",Y,arnika-gray-dark-mt
+627,12,627,"Графит темно-серый MT Grafit Gray Dark МТ",Y,grafit-gray-dark-mt
+628,12,628,"Графит светло-серый MT Grafit Gray Light МТ",Y,grafit-gray-light-mt
+629,12,629,"Майкл серый MT Maykel Gray МТ",Y,maykel-gray-mt
+630,12,630,"Рафаэль золотой MT Rafael Gold МТ",Y,rafael-gold-mt
+631,12,631,"Рафаэль серый MT Rafael Gray МТ",Y,rafael-gray-mt
+632,12,632,"Белый MT White MT",Y,white-mt
+633,12,633,"Артстоун черный MT Artstone Black MT",Y,artstone-black-mt
+634,12,634,"Артстоун кремовый MT Artstone Cream MT",Y,artstone-cream-mt
+635,12,635,"Артстоун серый MT Artstone Gray MT",Y,artstone-gray-mt
+636,12,636,"Марс коричневый MT Mars Brown MT",Y,mars-brown-mt
+637,12,637,"Марс кремовый MT Mars Cream MT",Y,mars-cream-mt
+638,12,638,"Мурано темный MT Murano Dark MT",Y,murano-dark-mt
+639,12,639,"Мурано светлый MT Murano Light MT",Y,murano-light-mt
+640,12,640,"Мурано MT Murano MT",Y,murano-mt
+641,12,641,"Кварц бежевый MT Quartz Beige MT",Y,quartz-beige-mt
+642,12,642,"Травертин MT Travertin MT",Y,travertin-mt
+643,12,643,"Ультра MT Ultra MT",Y,ultra-mt
+644,12,644,"Арника антрацитовый MT Arnika Antracit MT",Y,arnika-antracit-mt
+645,12,645,"Калакатта золотой MT Calacatta Gold MT",Y,calacatta-gold-mt
+646,12,646,"Калакатта Торонто MT Calacatta Toronto MT",Y,calacatta-toronto-mt
+647,12,647,"Крокус темный MT Crocus Dark MT",Y,crocus-dark-mt
+648,12,648,"Крокус светлый MT Crocus Light MT",Y,crocus-light-mt
+649,12,649,"Галакси MT Galaxy MT",Y,galaxy-mt
+650,12,650,"Манилла бежевая MT Manilla Beige MT",Y,manilla-beige-mt
+651,12,651,"Манилла шоколад MT Manilla Brown MT",Y,manilla-brown-mt
+652,12,652,"Про Бетон MT Pro Beton MT",Y,pro-beton-mt
+653,12,653,"Статуарио MT Statuario MT",Y,statuario-mt
+654,12,654,"Тераццо MT Terazzo MT",Y,terazzo-mt
+655,12,655,"Фьюжн серый MT Fusion Gray МТ",Y,fusion-gray-mt
+656,12,656,"Фьюжн светло-серый MT Fusion Gray Light МТ",Y,fusion-gray-light-mt
+667,12,667,"Сантана светло-бежевый MT Santana Light Beige MT 60x60",Y,santana-light-beige-mt-60x60
+932,12,932,"Зоя светлый PL Zoya Light PL",Y,zoya-svetlyy-pl-zoya-light-pl
+935,12,935,"Гравел MT Gravel MT",Y,gravel-mt-gravel-mt
+938,12,938,"Кирпич красный MT Brick Red MT 30*60",Y,kirpich-krasnyy-mt-brick-red-mt-30-60
