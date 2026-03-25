@@ -1,0 +1,4 @@
+bitrix_id,bitrix_name,bitrix_code,cml2_id,article,cml_name,score,status
+1,блок,block,101,A001,Block 1,0.95,matched
+2,кирпич,brick,102,A002,Brick 2,0.93,matched
+...
